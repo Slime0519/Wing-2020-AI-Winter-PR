@@ -10,7 +10,7 @@ AI Winter PR studygroup's repository.
 
 
 
-## Week 1 (1/5 , 20:30 )
+## Week 1 (1/6(WED) , 20:30 )
 
 | Presenter | Paper | Journal|
 | --------- | ---- | -------|
