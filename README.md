@@ -12,12 +12,12 @@ AI Winter PR studygroup's repository.
 
 ## Week 1 (1/5 , 20:30 )
 
-| Presenter | Paper |
-| --------- | ---- |
-| Yeonhyuk Kim |      |
-| Hanse Kim |      |
-| Junyeong Yoon |      |
-| Junmyeong Lee |  |
+| Presenter | Paper | Journal|
+| --------- | ---- | -------|
+| Yeonhyuk Kim |  -(HAKATHON)    | -|
+| Hanse Kim |  Isolation Forest    | IEEE ICDM 2009|
+| Junyeong Yoon |   Random Forest   | Machine Learning 2001 | 
+| Junmyeong Lee | Adam: A Method for Stochastic Optimization | ICLR 2015 |
 
 
 
