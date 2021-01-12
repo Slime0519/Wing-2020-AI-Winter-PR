@@ -14,7 +14,7 @@ AI Winter PR studygroup's repository.
 
 | Presenter | Paper | Journal|
 | --------- | ---- | -------|
-| Yeonhyuk Kim |  -(HAKATHON)    | -|
+| Yeonhyuk Kim |  (Hackathon)    | |
 | Hanse Kim |  Isolation Forest    | IEEE ICDM 2009|
 | Junyeong Yoon |   Random Forest   | Machine Learning 2001 | 
 | Junmyeong Lee | Adam: A Method for Stochastic Optimization | ICLR 2015 |
