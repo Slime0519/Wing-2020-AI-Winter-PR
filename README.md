@@ -26,7 +26,7 @@ AI Winter PR studygroup's repository.
 | --------- | ---- | -------|
 | Yeonhyuk Kim |  Overfeat: Intergrated recognition, localization and detection using convolutional networks   | arxiv 2013|
 | Hanse Kim |  Generative Adversarial Networks   | NIPS 2014 |
-| Junyeong Yoon |   Random Forest   | Journal of Machine Learning Research 2014| 
+| Junyeong Yoon |  Dropout: A Simple Way to Prevent Neural Networks from Overfitting   | Journal of Machine Learning Research 2014| 
 | Junmyeong Lee | U-Net: Convolutional Networks for Biomedical Image Segmentation | MICCAI 2015 |
 
 
