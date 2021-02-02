@@ -29,4 +29,22 @@ AI Winter PR studygroup's repository.
 | Junyeong Yoon |  Dropout: A Simple Way to Prevent Neural Networks from Overfitting   | Journal of Machine Learning Research 2014| 
 | Junmyeong Lee | U-Net: Convolutional Networks for Biomedical Image Segmentation | MICCAI 2015 |
 
+## Week 3 (1/20(WED) , 20:30 )
+
+| Presenter | Paper | Journal|
+| --------- | ---- | -------|
+| Yeonhyuk Kim |  ResNet Series  | CVPR 2016, ECCV 2016 |
+| Hanse Kim |  Evolving Neural Networks through Augmenting Topologies   | MIT Press 2002 |
+| Junyeong Yoon |  ImageNet Classification with Deep Convolutional Neural Networks   | NIPS 2012 | 
+| Junmyeong Lee | Ssd: Single shot multibox detector | ECCV 2016 |
+
+## Week 2 (2/3(WED) , 20:30 )
+
+| Presenter | Paper | Journal|
+| --------- | ---- | -------|
+| Hanse Kim |  LSTM : A Search Space Odyssey   | IEEE TNNLS 2015 |
+| Junyeong Yoon |  Going deeper with convolutions   | ICCV 2015 | 
+| Junmyeong Lee | Efficient Estimation of Word Representations in Vector Space | arxiv 2013|
+
+
 
