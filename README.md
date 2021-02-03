@@ -38,7 +38,7 @@ AI Winter PR studygroup's repository.
 | Junyeong Yoon |  ImageNet Classification with Deep Convolutional Neural Networks   | NIPS 2012 | 
 | Junmyeong Lee | Ssd: Single shot multibox detector | ECCV 2016 |
 
-## Week 2 (2/3(WED) , 20:30 )
+## Week 4 (2/3(WED) , 20:30 )
 
 | Presenter | Paper | Journal|
 | --------- | ---- | -------|
